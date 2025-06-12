@@ -1,0 +1,14 @@
+#Tarefa
+
+#Is Adult
+
+
+#O programa na tela verifica se uma determinada pessoa é adulta.
+
+#Atribua sua idade à variável age.
+#Use print() para exibir o resultado do programa na tela.
+
+age = 18
+is_adult = age >= 18
+
+print(age >= 18)
