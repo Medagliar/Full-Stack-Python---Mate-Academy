@@ -1,0 +1,7 @@
+#Tarefa
+#Turn On The Light
+#Nesta tarefa, você aprenderá a trabalhar com o operador lógico not.
+#Na tela, você pode ver a variável is_light_on. Usando print() e o operador lógico not, altere o valor da variável is_light_on para o oposto.
+
+is_light_on = True
+print(not is_light_on)
