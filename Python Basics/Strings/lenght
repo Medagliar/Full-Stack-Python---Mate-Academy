@@ -1,0 +1,14 @@
+#Tarefa
+
+#Length
+
+
+#Nesta tarefa, você trabalhará com a variável goal.
+
+#Use a função integrada len para determinar o comprimento da string armazenada na variável goal.
+#Coloque o comprimento da variável goal na variável goal_length.
+#Use print() para exibir o resultado na tela.
+
+goal = "Help 1 million people worldwide build their careers in Tech."
+goal_length = len(goal)
+print(goal_length) #60
