@@ -1,0 +1,7 @@
+#Tarefa
+#Index
+#Aqui está a variável goal novamente.
+#Use print() e index para exibir o dígito 1 da frase na tela.
+#Lembre-se de que a indexação em programação começa do 0.
+goal = "Help 1 million people worldwide build their careers in Tech."
+print(goal[5])
